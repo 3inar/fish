@@ -6,4 +6,5 @@ if status is-interactive
     # Commands to run in interactive sessions can go here
 
     alias wlog="cd ~/Dropbox/knowledge; nvim log.md"
+    alias website="cd ~/Dropbox/knowledge/website/notes; nvim index.md"
 end

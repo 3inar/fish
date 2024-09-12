@@ -5,6 +5,6 @@ if status is-interactive
     neofetch
     # Commands to run in interactive sessions can go here
 
-    alias wlog="cd ~/Dropbox/knowledge; nvim log.md"
+    alias wlog="cd ~/Dropbox/knowledge; nvim log.txt"
     alias website="cd ~/Dropbox/knowledge/website/notes; nvim index.md"
 end
